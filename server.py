@@ -7,8 +7,6 @@ import itertools
 import socket
 import sys
 import threading
-import logging as log
-
 
 class Server:
 
